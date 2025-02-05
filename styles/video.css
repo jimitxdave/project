@@ -1,0 +1,67 @@
+
+     
+     
+     
+     
+     .img1 {
+        width: 100%;
+        
+      }
+
+     
+
+        .video-title {
+            margin-top: 0;
+        }
+
+      
+
+        .video-info-grid {
+          display: grid;
+          grid-template-columns: 50px 1fr;
+        }
+
+
+
+
+      
+      .profile{
+        width: 40px;
+         
+      }
+
+      .video-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 15px;
+      }
+
+
+
+      .video-time {
+        background-color: black;
+        color: white;
+        position: absolute;
+        bottom: 8px;
+        right: 5px;
+        font-size: 12px;
+        font-weight: 500;
+        padding-left: 4px;
+        padding-right: 4px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        background-color: black;
+        color: white;
+        border-radius: 2px;
+
+
+      }
+
+      .row {
+        margin-bottom: 12px;
+        position: relative;
+      }
+
+
+
+
