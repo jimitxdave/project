@@ -4,20 +4,34 @@
     bottom: 0;
     top: 55px;
     background-color: white;
-    width: 73px;
+    width: 72px;
+    
 
 }
 
 .sidebar-link {
   
-    height: 75x;
-    margin-bottom:1px;
+    height: 76x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
 .sidebar-link:hover {
 
     background-color: rgb(235,235,235);
- 
+  
+}
+    
+.sidebar-link img {
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 
 }
+ 
+
+
